@@ -52,7 +52,6 @@ void solution(int tc){
 	cout << endl;
 	cal.clear(), adj.clear(), ans.clear();
 }
-
 int32_t main(){
 	Faster;
 	int tc = 1; 
